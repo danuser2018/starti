@@ -16,6 +16,9 @@
     <version>1.0.0</version>
     <name>Starti</name>
     <description>Init a new project</description>
+    <modules>
+        <module>application</module>
+    </modules>
 
     <packaging>pom</packaging>
 
